@@ -16,7 +16,8 @@ click on FILE, click on new stm 32 project
 select the target to be programmed as shown below and click on next
 ### STEP 4
 select the program name 
-### STEP 5corresponding ioc file will be generated automatically
+### STEP 5
+corresponding ioc file will be generated automatically
 ### STEP 6
 select the appropriate pins as gipo, in or out, USART or required options and configure
 ### STEP 7
